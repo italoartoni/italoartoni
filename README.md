@@ -14,8 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
+  
 <div> 
   
   ![Snake animation](https://github.com/italoartoni/italoartoni/blob/output/github-contribution-grid-snake.svg)
