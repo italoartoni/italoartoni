@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Italo Artoni😃️</a>
+    <a href="https://www.linkedin.com/in/italo-artoni-81915525b/">Italo Artoni😃️</a>
   </h1>
   
   <p align="center">
