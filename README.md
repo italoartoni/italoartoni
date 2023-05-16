@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-Desenvolvedor web em formação com experiência em HTML, CSS3 e JavaScript, procurando uma oportunidade para aplicar suas habilidades e conhecimentos para contribuir com projetos desafiadores e inovadores
+Desenvolvedor web em formação com experiência em HTML, CSS3 e JavaScript, procurando uma oportunidade para aplicar as minnhas habilidades e conhecimentos para contribuir com projetos desafiadores e inovadores
     
 
   
