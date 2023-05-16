@@ -35,7 +35,7 @@ Desenvolvedor web em formação com experiência em HTML, CSS3 e JavaScript, pro
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://www.linkedin.com/in/italo-artoni-81915525b/)
   
 </div>
 
