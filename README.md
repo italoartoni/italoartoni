@@ -32,10 +32,3 @@ Desenvolvedor web em formação com experiência em HTML, CSS3 e JavaScript, pro
   <a href="https://www.linkedin.com/in/italo-artoni-81915525b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-<div align="center">
-
-  ![Snake animation](https://www.linkedin.com/in/italo-artoni-81915525b/)
-  
-</div>
-
